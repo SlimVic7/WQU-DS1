@@ -1,2 +1,2 @@
 # WQU-DS1
-All WQU Module1 DS
+ WQU DS1 Tasks and solution 
